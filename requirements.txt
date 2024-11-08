@@ -1,0 +1,5 @@
+$ pip install pypdf
+$ pip install tk 
+$ pip install tkinterdnd2
+$ pip install pillow
+$ pip install reportlab
